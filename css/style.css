@@ -669,12 +669,12 @@ main-feature-item4 img {
 .popular-good .btn::after {
   content: "";
   position: absolute;
-  width: 30px;
-  height: 30px;
+  width: 28px;
+  height: 28px;
   background: #ee3643;
   transform: rotate(45deg);
   right: -13px;
-  top: 7px;
+  top: 6px;
 }
 .goods-item2 img {
   padding-top: 25px;
