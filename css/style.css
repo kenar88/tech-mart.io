@@ -43,6 +43,7 @@ body {
   line-height: 24px;
   font-weight: 400;
   text-transform: uppercase;
+  color: white;
 }
 .main-header-panel h1:hover {
   background: #ca2c37;
@@ -256,6 +257,7 @@ input[type="search"]::-webkit-input-placeholder {
   background-image: url(../img/icon-phone.png);
   background-repeat: no-repeat;
   left: 10px;
+  top: 5px;
   
 }
 .main-nav-contacts p {
@@ -1167,8 +1169,8 @@ main-feature-item4 img {
   background-image: url(../img/inner-icon-user.png);
   background-repeat: no-repeat;
   z-index: 2;
-  top: 109px;
-  left: 1052px;
+  top: 115px;
+  left: 1135px;
 } 
 .main-nav-enter input[type="text"]:active .icon-user {
   opacity: 0.3;
