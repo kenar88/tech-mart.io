@@ -470,9 +470,8 @@ input[type="search"]::-webkit-input-placeholder {
   right: 25px;
 }
 .main-feature-item4 {
-  width: 630px;
-  width: 276px;
   position: relative;
+  box-sizing: border-box;
   
 }
 .slide-text {
@@ -532,7 +531,7 @@ main-feature-item4 img {
   position: absolute;
   background-image: url(../img/icon-right.png);
   background-repeat: no-repeat;
-  right: -325px;
+  right: 25px;
   bottom: 120px;
   width: 22px;
   height: 40px;
@@ -561,7 +560,7 @@ main-feature-item4 img {
   height: 130px;
   position: absolute;
   right: 0;
-  bottom: 5px;
+  bottom: 7px;
   background: #f6b22d;
 }
 .item6 img {
